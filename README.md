@@ -28,8 +28,7 @@
   </a>
 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-007396.svg?style=for-the-badge&logo=python&logoColor=white" 
-      alt="Python"/> 
+    <img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
   </a>
 
   <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
@@ -88,8 +87,7 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
     <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
+    <img src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker"/>
   </a>
 </p>
 
@@ -99,7 +97,7 @@
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="https://netbeans.apache.org/front/main/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/neatbeans-007ACC.svg?style=for-the-badge&logo=neatbeans&logoColor=white" alt="neatBeans"/> 
+    <img src="https://img.shields.io/badge/neatbeans-007ACC.svg?style=for-the-badge&logo=neatbeans&logoColor=white" alt="NeatBeans"/> 
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.shields.io/badge/intelij-007ACC.svg?style=for-the-badge&logo=intelij&logoColor=white" alt="InteliJ"/> 
