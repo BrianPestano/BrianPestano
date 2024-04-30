@@ -27,6 +27,21 @@
       alt="java"/> 
   </a>
 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-007396.svg?style=for-the-badge&logo=python&logoColor=white" 
+      alt="Python"/> 
+  </a>
+
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
+    <img src="https://img.shields.io/badge/CSharp-007396.svg?style=for-the-badge&logo=csharp&logoColor=white" 
+      alt="CSharp"/> 
+  </a>
+
+  <a href="https://kotlinlang.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Kotlin-007396.svg?style=for-the-badge&logo=kotlin&logoColor=white" 
+      alt="Kotlin"/> 
+  </a>
+
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -85,6 +100,9 @@
   </a>
   <a href="https://netbeans.apache.org/front/main/index.html" target="_blank">
     <img src="https://img.shields.io/badge/neatbeans-007ACC.svg?style=for-the-badge&logo=neatbeans&logoColor=white" alt="neatBeans"/> 
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://img.shields.io/badge/intelij-007ACC.svg?style=for-the-badge&logo=intelij&logoColor=white" alt="InteliJ"/> 
   </a>
 
   
