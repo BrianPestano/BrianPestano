@@ -3,13 +3,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?-font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Islas+Canarias&hearts;++;Multiplatform-Application-Developer;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
-
 <br>
 
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
@@ -52,11 +47,7 @@
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  <a href="https://redis.io" target="_blank"> 
+  <a href="https://www.mysql.com" target="_blank"> 
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="MySQL"/>
   </a>
