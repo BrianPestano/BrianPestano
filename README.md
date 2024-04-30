@@ -12,12 +12,10 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
-- Apasionado Desarrollador de aplicaciones de multiplataforma
-- Actualmente aprendiendo lenguajes de programación Python y CSharp
+- Passionate Cross-Platform Application Developer
+- Currently learning Python and CSharp programming languages
 
 <br><br>
 
