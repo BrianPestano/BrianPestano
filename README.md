@@ -53,6 +53,16 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
+
+ <a href="https://www.w3schools.com/tailwind/" target="_blank">
+    <img src="https://img.shields.io/badge/tailwind-1572B6.svg?style=for-the-badge&logo=tailwind&logoColor=white"
+      alt="tailwind"/>
+  </a>
+
+  <a href="https://www.w3schools.com/bootstrap/" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-1572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
